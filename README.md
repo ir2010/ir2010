@@ -1,5 +1,5 @@
 ### Hey people 👋
-<img src="https://drive.google.com/file/d/147PFo9IATOG4sB9Rc2CcXAVDldPajIok/view?usp=sharing" width="100" height="100">
+<img src="https://github.com/ir2010/ir2010/blob/main/litelo.jpg" width="250" height="200" style="border-radius:50%">
 
 
 - :smiley: I'm a pre-final year Computer Science and Engineering student at MNNIT Allahabad...
