@@ -1,4 +1,5 @@
 ### Hey people 👋
+<img src="https://drive.google.com/file/d/147PFo9IATOG4sB9Rc2CcXAVDldPajIok/view?usp=sharing" width="100" height="100">
 
 
 - :smiley: I'm a pre-final year Computer Science and Engineering student at MNNIT Allahabad...
