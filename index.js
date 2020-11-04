@@ -14,8 +14,6 @@ let DATA = {
     day: 'numeric',
     hour: 'numeric',
     minute: 'numeric',
-    timeZoneName: 'short',
-    timeZone: 'Indian',
   }),
 };/**
   * A - We open 'main.mustache'

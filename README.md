@@ -1,1 +1,1 @@
-My name is Ishu and today is Wednesday, 4 November, 11:59 CET.
+Hey! I am Ishu and while you're reading this, it's Wednesday, 4 November, 21:46 IST.
