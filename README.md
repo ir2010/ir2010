@@ -10,7 +10,8 @@
 
 - I am looking forward to learn **ML/AI**       :innocent:
 <br>
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ir2010&show_icons=true&theme=radical) &nbsp; &nbsp; &nbsp;
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ir2010&show_icons=true&theme=cobalt)
 
 ### Contact me here     :point_down:
 &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ishu-raj-ab7120178/">
