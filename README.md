@@ -11,8 +11,6 @@
 - I am looking forward to learn **ML/AI**       :innocent:
 <br>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ir2010&show_icons=true&theme=cobalt) &nbsp;  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ir2010&layout=compact)](https://github.com/ir2010/github-readme-stats)
-
 <a href="https://github-readme-stats.vercel.app/api?username=ir2010&show_icons=true&theme=cobalt">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ir2010&show_icons=true&theme=cobalt" />
 </a>
