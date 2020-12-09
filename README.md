@@ -11,15 +11,15 @@
 - I am looking forward to learn <b><i>Machine Learning</b></i>
 <br>
 
--Tech Stacks I have worked on
+- Tech Stacks I have worked on<br>
 ![Tech Stacks I have worked on](https://github-readme-stats.vercel.app/api/top-langs/?username=ir2010&layout=compact)
 <br>
 
--My GitHub Stats
+- My GitHub Stats<br>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ir2010&show_icons=true&hide_border=true&theme=cobalt)
 <br>
 
--Contact me at
+- Contact me at
 <a href="https://www.linkedin.com/in//">
     <img align="left" width="24px" src="https://github.com/ir2010/ir2010/blob/main/assets/waving_hand_sign_1024.gif" />
 </a>
