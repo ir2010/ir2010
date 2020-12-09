@@ -11,17 +11,17 @@
 - I am looking forward to learn **ML/AI**
 <br>
 
-## Languages I have worked with
+## Languages I have worked with :computer:
 <br>
 ![Tech Stacks I have worked on](https://github-readme-stats.vercel.app/api/top-langs/?username=ir2010&layout=compact)
 <br>
 
-## My GitHub Stats
+## My GitHub Stats :barchart:
 <br>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ir2010&show_icons=true&hide_border=true&theme=cobalt)
 <br>
 
-## Contact me at 
+## Contact me at :email:
 <a href="https://www.linkedin.com/in//">
     <img align="center" width="24px" src="https://github.com/ir2010/ir2010/blob/main/assets/waving_hand_sign_1024.gif" />
  </a>  
@@ -30,6 +30,6 @@
 </a>
 <br>
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀 :eyes:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ir2010)
