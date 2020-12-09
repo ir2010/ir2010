@@ -10,8 +10,7 @@
 
 - I am looking forward to learn **ML/AI**       :innocent:
 <br>
-
-![Languages I have worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=ir2010&layout=compact) &nbsp; &nbsp; &nbsp; ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ir2010&show_icons=true&theme=cobalt)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=ir2010&show_icons=true&theme=cobalt)&nbsp; &nbsp; &nbsp; ![Languages I have worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=ir2010&layout=compact)
 <br>
 
 ### Contact me here     :point_down:
