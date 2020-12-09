@@ -1,20 +1,20 @@
-<h1>Hey! <img height="64px" src="https://github.com/ir2010/ir2010/blob/main/assets/waving_hand_sign_1024.gif"></h1>
+<h1>Hey! <img height="50px" src="https://github.com/ir2010/ir2010/blob/main/assets/waving_hand_sign_1024.gif"></h1>
 
 <br>
 
-<h2>I am an undergraduate learning Computer Science and Engineering at MNNIT Allahabad</h2>
+<h4>I am an undergraduate learning Computer Science and Engineering at MNNIT Allahabad</h4>
 <br>
 <br>
-<h2>I am currently working on <b><i>Mobile App Development</b></i></h2>
+<h4>I am currently working on <b><i>Mobile App Development</b></i></h4>
 <br>
 <br>
-<h2>I am looking forward to learn <b><i>Machine Learning</b></i></h2>
+<h4>I am looking forward to learn <b><i>Machine Learning</b></i></h4>
 <br>
 <br>
-![Tech Stacks I have worked on](https://github-readme-stats.vercel.app/api/top-langs/?username=ir2010&layout=compact)]
+![Tech Stacks I have worked on](https://github-readme-stats.vercel.app/api/top-langs/?username=ir2010&layout=compact)
 <br>
 <br>
-![My Github stats](https://github-readme-stats.vercel.app/api?username=ir2010&show_icons=true&theme=cobalt)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=ir2010&show_icons=true&theme=cobalt)
 <br>
 <br>
 <a href="https://www.linkedin.com/in//">
