@@ -2,13 +2,13 @@
 
 <br>
 
-- I am an undergraduate learning **Computer Science and Engineering** at MNNIT Allahabad
+- I am an undergraduate learning **Computer Science and Engineering** at MNNIT Allahabad :computer:
 <br>
 
-- I am currently working on **Mobile App Development**
+- I am currently working on **Mobile App Development**  :iphone:
 <br>
 
-- I am looking forward to learn **ML/AI**
+- I am looking forward to learn **ML/AI**       :innocent:
 <br>
 
 ![Languages I have worked with](https://github-readme-stats.vercel.app/api/top-langs/?username=ir2010&layout=compact)
