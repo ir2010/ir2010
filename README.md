@@ -23,7 +23,7 @@
 &nbsp; &nbsp; <a href="https://www.linkedin.com/in/ishu-raj-ab7120178/">
     <img align="center" width="26px" src="https://github.com/ir2010/ir2010/blob/main/assets/linkedin.jpeg" />
  </a>  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="mailto:ishuraj2010@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=ishuraj2010@gmail.com">
     <img align="center" width="26px" src="https://github.com/ir2010/ir2010/blob/main/assets/gmail.png" />
 </a>
 <br>
